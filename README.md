@@ -65,3 +65,24 @@ In the simplest possible terms, a cloud-based solution is anything one can acces
 1. The Software as a Service (SaaS) model: This is the software distribution model whereby developers put their applications into a cloud-based delivery system. Customers access these applications via the Internet, usually through a browser. Since there is no need for extra IT infrastructure on the customer’s part, SaaS subscriptions can be extremely cost-effective. Moreover, it helps to increase internal efficiency by allowing teams to work from anywhere in the world as and when required. Some examples are Google Workspace, Dropbox, Salesforce, Cisco WebEx and others.
 2. The Platform as a Service (PaaS) model: This type of model is often run by an organization where the users can not only create and run applications on the cloud but also effectively maintain them themselves. In the PaaS model, a third-party organization will offer technical resources such as hosting facilities or programming tools. Some examples are Google App Engine, Apache Stratos, Heroku, Force.com and others.
 3. The Infrastructure as a Service (IaaS) model: This model provides the infrastructure necessary for companies to run their operations. It includes virtual and non-virtual servers, storage, and data center space all in one place. IaaS also offers cloud computing which is a form of utility computing whereby the service provider offers access to distributed systems and resources. Some examples are Linode, Rackspace, Amazon Web Services (AWS), Microsoft Azure, Google Compute Engine (GCE)and others.
+
+
+In addition to the above cloud delivery models, there are three cloud deployment models described as follows.
+
+1. Public cloud
+2. Private cloud
+3. Hybrid cloud
+
+Public Cloud
+
+While the public cloud may provide client organizations and service providers with economies of scale, it lacks control over the geographic location and security of the proprietary data that they store within an infrastructure-as-a-service environment. Many government agencies and large enterprises can no longer outsource IT without having full control over their data encryption techniques. As a result, even though private clouds may be more costly for some organizations to deploy, increasing numbers of business leaders are viewing them as a viable option when it comes down to protecting confidential information.
+
+Private Cloud
+
+Having an online presence that reflects your business is essential for attracting and retaining potential customers, hence a private cloud is the most suitable option for businesses of every size and type. A private cloud also offers more assured levels of control and security which is especially vital to larger organizations with very particular needs and requirements when it comes down to security or protecting their own data.
+
+Hybrid Cloud
+
+![image](https://user-images.githubusercontent.com/81725794/179434393-be5d6b65-4b1b-4f0c-92f5-573cfc12b740.png)
+
+A hybrid cloud is a combination of two clouds in one. On one hand, it’s like the services offered by your everyday public cloud (like from providers like Amazon Web Services or Google Cloud Platform) – they offer users some basic resources that can be used to host websites, applications, and even complex services on their computing platform. On the other hand, it’s a private cloud, which is like an internal data center where customers use as much or as little bandwidth and storage space as they please with everything running behind the firewall for convenience and security. This model provides many advantages for those who want to combine the best benefits from both worlds to host the most important business-related applications without compromising performance or overall data protection.
