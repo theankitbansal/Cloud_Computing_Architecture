@@ -104,3 +104,11 @@ The services included within a cloud management platform are as follows:
 6. Resource Optimization and Capacity Management: While it’s certainly important to keep an eye on cloud cost management, one often overlooked but important step is knowing what is running “in the cloud” in the first place. One of the best ways to avoid resources that are left unused – or at least to make sure they don’t happen – is to stop them from even being created in the first place; which is just another reason why this resource optimization tool is so helpful.
 7. APIs For Interaction And Collaboration: APIs allow cloud computing systems to cooperate with each other, as well as access third-party applications and workloads. APIs make it easy to integrate cloud platforms with advanced tools and analytics, so your business can use big data to effectively analyze consumer trends and pursue new opportunities. Other features include data analysis, cross-system communication, resource sharing, and others. The beauty of APIs is that they allow companies to comply with a variety of different regulations and remain in full control of their data anywhere at any time.
 
+Benefits of Cloud Computing
+
+1. Cloud computing architectures are designed to be reliable and effective means of processing data, which can instantly and seamlessly scale up or down as a business grows.
+2. Due to mobility inherent in such systems, remote working is more efficient and flexible; teams can be more productive without ever leaving their desk and businesses have the advantage that when technology improves.
+3. They don’t need to wait for a costly hardware upgrade – their cloud resources will adapt on the fly!
+4. Scurity risks are reduced, as there are fewer physical locations for hackers to target.
+5. Disaster recovery is much simpler because all data can be replicated using easy-to-use web applications.
+
