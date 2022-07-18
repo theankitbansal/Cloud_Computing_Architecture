@@ -112,3 +112,13 @@ Benefits of Cloud Computing
 4. Scurity risks are reduced, as there are fewer physical locations for hackers to target.
 5. Disaster recovery is much simpler because all data can be replicated using easy-to-use web applications.
 
+Disadvantages of Cloud Computing
+
+Here are the significant challenges of using Cloud Computing:
+
+1. In the cloud, your application is running on a server and simultaneously serving other companies who are using shared resources. Any greedy behavior or DDOS (Distributed Denial of Service) attack could affect the performance of your company’s shared application.
+2. Despite high standards of maintenance, cloud service providers become prone to an outage and other technical issues.
+3. Hackers might access your company’s sensitive information due to security threats in the cloud.
+4. Cloud providers may face downtime issues including power loss, low internet connectivity, service maintenance, etc.
+5. Good cloud connectivity is a must in cloud computing. There’s no way around to retrieve data off of the cloud other than over the Internet.
+
