@@ -122,3 +122,8 @@ Here are the significant challenges of using Cloud Computing:
 4. Cloud providers may face downtime issues including power loss, low internet connectivity, service maintenance, etc.
 5. Good cloud connectivity is a must in cloud computing. There’s no way around to retrieve data off of the cloud other than over the Internet.
 
+Conclusion
+
+Cloud computing architecture is simpler than you might think. It is clear and easy to understand; it clearly defines everything that goes into making an individual cloud, including the parts and pieces relating specifically to “cloudiness”. When it comes down to particulars, there is virtually no question as to whether cloud computing will stay around for long stretches of time. Its universal impact on our lives today has already let us know that the benefits offered by it – in terms of storing data, saving it, backing up files, sharing information with people all over the world etc. – are undeniable and thus cannot be stopped from leading us into a much newer era of technological advancement.
+
+Takeaway: Cloud computing is a more reliable and secure way of storing data across the web. It helps you to be connected with your information, wherever you are in the world.
